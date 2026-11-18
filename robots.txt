@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://levittownrestoration.com/sitemap.xml
